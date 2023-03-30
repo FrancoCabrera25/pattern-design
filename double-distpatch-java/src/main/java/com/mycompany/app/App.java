@@ -22,7 +22,7 @@ public class App {
             System.out.println("gano Machine " + resultGame.toString());
         } else if (resultGame == GameResultEnum.LOSE) {
 
-            System.out.println("Gano player ");
+            System.out.println("Gano player !!!!!!!");
         }else {
             System.out.println("Empate ");
         }

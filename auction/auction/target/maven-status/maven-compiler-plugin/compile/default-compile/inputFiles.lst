@@ -1,0 +1,6 @@
+/workspaces/pattern-design/auction/auction/src/main/java/com/auction/model/Auction.java
+/workspaces/pattern-design/auction/auction/src/main/java/com/auction/model/User.java
+/workspaces/pattern-design/auction/auction/src/main/java/com/auction/observer/Observer.java
+/workspaces/pattern-design/auction/auction/src/main/java/com/auction/App.java
+/workspaces/pattern-design/auction/auction/src/main/java/com/auction/model/AuctionStatusEnum.java
+/workspaces/pattern-design/auction/auction/src/main/java/com/auction/observer/Subject.java
